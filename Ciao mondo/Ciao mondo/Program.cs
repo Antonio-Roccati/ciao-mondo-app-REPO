@@ -6,7 +6,8 @@ namespace Ciao_mondo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ciao mondo!");
+            Console.WriteLine("addio mondo!");
         }
     }
 }
